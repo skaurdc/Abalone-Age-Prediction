@@ -3,14 +3,14 @@
 <br>
 <h2>Problem Statement</h2><br>
 The aim of this project is to predicting the age of abalone by analyzing its physical measurements. The age of abalone is equal to 1.5 multiplied by the number of its rings.
-# Background
-### An abalone is type of cold-water marine snail. The age of abalone is determined by cutting the shell through the cone, staining it, and counting the number of rings. Other measurements, which are easier to obtain, are used to predict the age.
-# Overview
-### Data Source: UCI Machine Learning Repository
-### Dataset Info: The dataset has 4177 observations and 9 features.It does not have any missing values.
-### Target Variable: Rings or, newly created column derived from Rings called Age.
+<h2>Background</h2><br>
+An abalone is type of cold-water marine snail. The age of abalone is determined by cutting the shell through the cone, staining it, and counting the number of rings. Other measurements, which are easier to obtain, are used to predict the age.<br>
+<h2>Overview</h2><br>
+- Data Source: UCI Machine Learning Repository
+- Dataset Info: The dataset has 4177 observations and 9 features.It does not have any missing values.
+-  Target Variable: Rings or, newly created column derived from Rings called Age.
 <br>
-# Data Description:
+<h2>Data Description:</h2><br>
 
 | Name  | Data Type | Description | Measurement | Variable Type |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -24,8 +24,8 @@ The aim of this project is to predicting the age of abalone by analyzing its phy
 | Shell weight |	Numerical |	after being dried |	grams |	Independent Variable |
 | Rings |	Numerical |	+1.5 gives the age in years	| years	 | Dependent/Target Variable |
 
-# Problem Approach
-## The age of abalones can be predicted using Supervised Machine Learning Algorithms. Following the various steps of the data and machine learning pipeline, a candidate algorithm will be selected. The following steps will be conducted:
+<h2>Problem Approach</h2><br>
+The age of abalones can be predicted using Supervised Machine Learning Algorithms. Following the various steps of the data and machine learning pipeline, a candidate algorithm will be selected. The following steps will be conducted:
 - Data Preprocessing and cleaning
 - Exploratory Data Analysis
 - Data Visualization
@@ -34,5 +34,5 @@ The aim of this project is to predicting the age of abalone by analyzing its phy
 - Candidate Model Evaluation
 - Visualization and Inspection of Results.
 <br>
-# Classification + Regression Approach
-### This solution can be treated with both regression and classification. We analyze both approaches, and it is to be noted that I strongly prefer a classification approach over a regression approach.
+<h2>Classification + Regression Approach</h2><br>
+This solution can be treated with both regression and classification. We analyze both approaches, and it is to be noted that I strongly prefer a classification approach over a regression approach.
