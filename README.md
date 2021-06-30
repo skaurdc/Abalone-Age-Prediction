@@ -6,9 +6,9 @@ The aim of this project is to predicting the age of abalone by analyzing its phy
 <h2>Background</h2><br>
 An abalone is type of cold-water marine snail. The age of abalone is determined by cutting the shell through the cone, staining it, and counting the number of rings. Other measurements, which are easier to obtain, are used to predict the age.<br>
 <h2>Overview</h2><br>
-- Data Source: UCI Machine Learning Repository
-- Dataset Info: The dataset has 4177 observations and 9 features.It does not have any missing values.
--  Target Variable: Rings or, newly created column derived from Rings called Age.
+*Data Source: UCI Machine Learning Repository
+*Dataset Info: The dataset has 4177 observations and 9 features.It does not have any missing values.
+*Target Variable: Rings or, newly created column derived from Rings called Age.
 <br>
 <h2>Data Description:</h2><br>
 
