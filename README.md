@@ -6,9 +6,9 @@ The aim of this project is to predicting the age of abalone by analyzing its phy
 <h2>Background</h2><br>
 An abalone is type of cold-water marine snail. The age of abalone is determined by cutting the shell through the cone, staining it, and counting the number of rings. Other measurements, which are easier to obtain, are used to predict the age.<br>
 <h2>Overview</h2><br>
-*Data Source: UCI Machine Learning Repository
-*Dataset Info: The dataset has 4177 observations and 9 features.It does not have any missing values.
-*Target Variable: Rings or, newly created column derived from Rings called Age.
+<br>1. Data Source: UCI Machine Learning Repository
+<br>2. Dataset Info: The dataset has 4177 observations and 9 features.It does not have any missing values.
+<br>3. Target Variable: Rings or, newly created column derived from Rings called Age.
 <br>
 <h2>Data Description:</h2><br>
 
@@ -26,13 +26,13 @@ An abalone is type of cold-water marine snail. The age of abalone is determined 
 
 <h2>Problem Approach</h2><br>
 The age of abalones can be predicted using Supervised Machine Learning Algorithms. Following the various steps of the data and machine learning pipeline, a candidate algorithm will be selected. The following steps will be conducted:
-- Data Preprocessing and cleaning
-- Exploratory Data Analysis
-- Data Visualization
-- Feature Engineering
-- Candidate Model Research
-- Candidate Model Evaluation
-- Visualization and Inspection of Results.
+<br>1. Data Preprocessing and cleaning
+<br>2. Exploratory Data Analysis
+<br>3. Data Visualization
+<br>4. Feature Engineering
+<br>5. Candidate Model Research
+<br>6. Candidate Model Evaluation
+<br>7. Visualization and Inspection of Results.
 <br>
 <h2>Classification + Regression Approach</h2><br>
 This solution can be treated with both regression and classification. We analyze both approaches, and it is to be noted that I strongly prefer a classification approach over a regression approach.
