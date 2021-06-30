@@ -1,8 +1,8 @@
 # Abalone Age Prediction
 ### Predicting the age of Abalones, which is a type of  a snail, from its physical features
 <br>
-# Problem Statement
-### The aim of this project is to predicting the age of abalone by analyzing its physical measurements. The age of abalone is equal to 1.5 multiplied by the number of its rings.
+<h2>Problem Statement</h2><br>
+The aim of this project is to predicting the age of abalone by analyzing its physical measurements. The age of abalone is equal to 1.5 multiplied by the number of its rings.
 # Background
 ### An abalone is type of cold-water marine snail. The age of abalone is determined by cutting the shell through the cone, staining it, and counting the number of rings. Other measurements, which are easier to obtain, are used to predict the age.
 # Overview
